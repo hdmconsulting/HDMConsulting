@@ -30,6 +30,13 @@ header .logo-text {
     text-decoration: none; /* Remove underline */
 }
 
+header .innovative-solutions {
+    font-size: 1em;
+    color: white;
+    font-style: italic;
+    margin: 0;
+}
+
 nav ul {
     list-style: none;
     margin: 0;
